@@ -18,12 +18,6 @@ sbt clean compile test
 sbt clean compile run
 ```
 
-### Explanation video:
-
-YouTube- https://youtu.be/j89HyGQGWNI
-
-Includes explanation of code as well.
-
 ## Application Design
 
 These are the subdirectories:-
