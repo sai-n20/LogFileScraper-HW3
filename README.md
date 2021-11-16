@@ -1,17 +1,6 @@
-# Homework 3
-
-## Name: Sai Nadkarni
-## UIN: 672756678
-## NetID: snadka2
-## Instructions and documentation:
-
 ### Detailed description in docs folder
 
-### Explanation video:
-
-YouTube- https://youtu.be/j89HyGQGWNI
-
-Includes explanation of code as well.
+### Forked from own secondary account made for university.
 
 ### The goal of this homework is for students to gain experience with solving a distributed computational problem using cloud computing technologies by designing and implementing a RESTful service and a lambda function that are accessed from clients using gRPC.
 ### Grade: 8%
